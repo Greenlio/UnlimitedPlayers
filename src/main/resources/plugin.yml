@@ -3,7 +3,7 @@ version: ${project.version}
 author: Greenlio
 description: Allows server owners to use MH10 and have unlimited players!
 api-version: 1.13
-main: dev.greenlio.unlimitedplayers.UnlimitedPlayers
+main: dev.greenlio.unlimitedplayers.minehut.UnlimitedPlayers
 commands:
   setslots:
     description: Change the max players on the server
